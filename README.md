@@ -181,7 +181,7 @@ Light Mode:
 
 ![image](https://github.com/user-attachments/assets/39812d34-8469-443d-a1d4-3cc33c8dc85f)
 
-Trailors:
+Trailers:
 
 ![image](https://github.com/user-attachments/assets/f917eb39-8be0-4d12-be51-1cb162a0c4f4)
 
