@@ -14,14 +14,14 @@
   <p align="center">
     ShabbuFlix - AI Powered Movie App [React.js, Material UI, Alan AI]
     <br />
-    <a href="https://github.com/MohammadShabazuddin/Shabbu_Flix"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/MohammadShabazuddin/ShabbuFlix-AI_Powered_Movie_App"><strong>Explore the project »</strong></a>
     <br />
     <br />
-    <a href="https://filmpire-jovan.netlify.app/">View Demo Site</a>
+    <a href="https://shabbuflix.vercel.app/">View Demo Site</a>
     ·
-    <a href="https://github.com/jovan-vukic/filmpire/issues">Report Bug</a>
+    <a href="https://github.com/MohammadShabazuddin/ShabbuFlix-AI_Powered_Movie_App/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jovan-vukic/filmpire/issues">Request Feature</a>
+    <a href="https://github.com/MohammadShabazuddin/ShabbuFlix-AI_Powered_Movie_App/issues">Request Feature</a>
   </p>
 </div>
 
@@ -41,7 +41,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -50,9 +49,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://filmpire-jovan.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://shabbuflix.vercel.app/)
 
-Filmpire combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
+ShabbuFLix combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
 
 Features include:
 * user authentication,
@@ -63,7 +62,7 @@ Features include:
 * movie search functionality,
 * Alan AI voice functionality and many more.
 
-Alan works as an in-app voice assistant for the Filmpire project.
+Alan works as an in-app voice assistant for the ShabbuFlix project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -109,39 +108,54 @@ For a full demonstration of all the functionalities of this phenomenal web appli
 
 _For more detailes regarding TMDB API calls, please refer to the [Documentation](https://developers.themoviedb.org/3/getting-started/introduction)._
 
-See the [open issues](https://github.com/jovan-vukic/filmpire/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.md` for more information.
+See the [open issues](https://github.com/MohammadShabazuddin/ShabbuFlix-AI_Powered_Movie_App/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Jovan - [@jovan-vukic](https://github.com/jovan-vukic)
+_Connect with me through various portals :_
 
-Project Link: [https://github.com/jovan-vukic/filmpire](https://github.com/jovan-vukic/filmpire)
+<table>
+  <tr>
+    <th></th>
+    <th>Social Media</th>
+    <th>Username</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /></td>
+    <td>Email</td>
+    <td><code>shabazuddin.198@gmail.com</code></td>
+    <td><a href="mailto:shabazuddin.198@gmail.com" target="_blank">Email</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /></td>
+    <td>LinkedIn</td>
+    <td><code>Shabazuddin Mohammad</code></td>
+    <td><a href="https://www.linkedin.com/in/shabazuddin123/" target="_blank">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /></td>
+    <td>Instagram</td>
+    <td><code>shabaz_uddin</code></td>
+    <td><a href="https://www.instagram.com/shabaz_uddin/" target="_blank">Instagram</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /></td>
+    <td>Facebook</td>
+    <td><code>Shabaz</code></td>
+    <td><a href="https://www.facebook.com/shabaz.shabaz.37819/" target="_blank">Facebook</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /></td>
+    <td>Twitter</td>
+    <td><code>shabazuddin786</code></td>
+    <td><a href="https://twitter.com/shabazuddin786" target="_blank">Twitter</a></td>
+  </tr>
+</table>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -153,7 +167,7 @@ Used resources:
 * [The Movie DB API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
 * [Alan AI Documentation](https://alan.app/docs/)
 * [MUI Library](https://mui.com/)
-* [JavaScript Mastery](https://www.jsmastery.pro/)
+* [React](https://react.dev/learn)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
