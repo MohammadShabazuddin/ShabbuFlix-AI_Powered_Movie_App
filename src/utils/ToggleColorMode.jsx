@@ -5,7 +5,7 @@ import { THEME_MODE } from '../constants';
 export const ColorModeContext = createContext();
 
 const ToggleColorMode = ({ children }) => {
-  const [mode, setMode] = useState(localStorage.getItem(THEME_MODE) ?? 'light');
+  const [mode, setMode] = useState(localStorage.getItem(THEME_MODE) ?? 'dark');
 
   const toggleColorMode = () => {
     setMode((prevMode) => (prevMode === 'light' ? 'dark' : 'light'));
