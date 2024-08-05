@@ -49,17 +49,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://shabbuflix.vercel.app/)
+[![image](https://github.com/user-attachments/assets/792f4f08-77f4-4e97-bc3f-d73c1a91a1a4)
+](https://shabbuflix.vercel.app/)
 
 ShabbuFLix combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
 
 Features include:
-* user authentication,
-* light and dark mode,
+* User Authentication,
+* Light and Dark mode,
 * API calls with axios and Redux,
-* actors and movie details page,
-* watchlist and list of favorite movies,
-* movie search functionality,
+* Actors and Movie details page,
+* Watchlist and List of favorite movies,
+* Movie search functionality,
 * Alan AI voice functionality and many more.
 
 Alan works as an in-app voice assistant for the ShabbuFlix project.
@@ -171,5 +172,24 @@ Used resources:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: src/assets/images/screenshot.PNG
+## Images
+Dark Mode:
+
+![image](https://github.com/user-attachments/assets/aec976d7-e530-41a6-a78e-a4a39e1d42a8)
+
+Light Mode:
+
+![image](https://github.com/user-attachments/assets/39812d34-8469-443d-a1d4-3cc33c8dc85f)
+
+Trailors:
+
+![image](https://github.com/user-attachments/assets/f917eb39-8be0-4d12-be51-1cb162a0c4f4)
+
+Actors and Movie details page
+
+![image](https://github.com/user-attachments/assets/5c174185-b9e8-40ad-bf4d-2fe5e295355a)
+
+Watchlist and List of favorite movies,
+
+![image](https://github.com/user-attachments/assets/23b5e220-6aa7-4720-9c33-8f0cd5439b41)
+
